@@ -2,6 +2,22 @@
 
 ![Framework Overview](asset/pipeline.png "Field-Structure Coupled Generation Pipeline")
 
+<p align="center">
+<strong>HyperDiffusion-Meta: Physics-Aware Metamaterial Generation via Hypergraph Neural Operators and PDE-Constrained Diffusion</strong>
+    <br>
+    <a href='' target='_blank'>Shiyang Li</a>&emsp;
+    <a href='' target='_blank'>Changqing Zou</a>&emsp;
+    <a href='' target='_blank'>Yuan Feng</a>&emsp;
+    <a href='' target='_blank'>Zeyu Ling</a>&emsp;
+    <a href='' target='_blank'>Yue Gao*</a>&emsp;
+    <br>
+    Zhejiang University&emsp;
+    Zhejiang Lab&emsp;
+    Tsinghua University
+    <br>
+</br>
+
+
 ## Introduction
 
 To address the limitations of data-driven approaches in physical generalization, we propose **HyperDiffusion-Meta**, a novel cascade generation framework that integrates **PDE equation-constrained physical field generation** with **hypergraph-enhanced metamaterial structure generation**. This architecture aligns with the physical principles of field-structure coupling, bridging the semantic gap between text descriptions and high-precision metamaterial design.
